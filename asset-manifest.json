@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/pesquisaorder/static/js/app.30bed15e.chunk.js",
+    "app.js.map": "/pesquisaorder/static/js/app.30bed15e.chunk.js.map",
+    "runtime~app.js": "/pesquisaorder/static/js/runtime~app.765d0fbc.js",
+    "runtime~app.js.map": "/pesquisaorder/static/js/runtime~app.765d0fbc.js.map",
+    "static/js/2.d748c473.chunk.js": "/pesquisaorder/static/js/2.d748c473.chunk.js",
+    "static/js/2.d748c473.chunk.js.map": "/pesquisaorder/static/js/2.d748c473.chunk.js.map",
+    "fonts/AntDesign.ttf": "/pesquisaorder/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/pesquisaorder/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/pesquisaorder/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/pesquisaorder/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/pesquisaorder/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/pesquisaorder/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/pesquisaorder/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/pesquisaorder/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/pesquisaorder/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/pesquisaorder/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/pesquisaorder/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/pesquisaorder/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/pesquisaorder/favicon-16.png",
+    "favicon-32.png": "/pesquisaorder/favicon-32.png",
+    "favicon.ico": "/pesquisaorder/favicon.ico",
+    "index.html": "/pesquisaorder/index.html",
+    "manifest.json": "/pesquisaorder/manifest.json",
+    "serve.json": "/pesquisaorder/serve.json",
+    "static/js/2.d748c473.chunk.js.LICENSE.txt": "/pesquisaorder/static/js/2.d748c473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.765d0fbc.js",
+    "static/js/2.d748c473.chunk.js",
+    "static/js/app.30bed15e.chunk.js"
+  ]
+}
